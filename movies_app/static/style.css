@@ -47,6 +47,13 @@
     height: 150px;
     padding: 12px 20px;
 }
+/* Banner Icon */ 
+.banner-icon{
+    max-height: 50px;
+    max-width: auto;
+    padding: 10px;
+    margin: auto;
+}
 
 /* text options */
 .nav-link{
